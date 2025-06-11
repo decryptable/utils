@@ -4,6 +4,8 @@ Aplikasi Android dengan berbagai fitur utility menggunakan javascript untuk text
 
 ## Preview
 
+https://github.com/user-attachments/assets/e573ccfe-96ed-4fa4-b9c6-48e0e09f2ff7
+
 ## Tech Stack
 
 - [Vite](https://vite.dev/)
